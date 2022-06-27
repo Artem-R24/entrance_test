@@ -1,0 +1,15 @@
+C:\Users\!\source\repos\Database\Database\bin\Debug\Database.exe.config
+C:\Users\!\source\repos\Database\Database\bin\Debug\Database.exe
+C:\Users\!\source\repos\Database\Database\bin\Debug\Database.pdb
+C:\Users\!\source\repos\Database\Database\bin\Debug\EntityFramework.dll
+C:\Users\!\source\repos\Database\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\!\source\repos\Database\Database\bin\Debug\EntityFramework.xml
+C:\Users\!\source\repos\Database\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.exe
+C:\Users\!\source\repos\Database\Database\obj\Debug\Database.pdb
